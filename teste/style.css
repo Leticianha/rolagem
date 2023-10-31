@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.espaco {
+    background-color: brown;
+    height: 500px;
+    margin: 20px 0 20px 0;
+}
+
+.container {
+    background-color: black;
+    height: 600px;
+    text-align: center;
+    padding-top: 250px;
+}
+
+span {
+    color: white;
+    font-size: 50px;
+}
+
+.segundo, .terceiro {
+    display: none;
+}
